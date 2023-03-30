@@ -1,0 +1,7 @@
+En caso de que marque muchos errores ejecutar estos comandos antes de correr el proyecto:
+
+
+1.-    flutter pub get
+
+2.-    flutter packages pub run build_runner build --delete-conflicting-outputs 
+
